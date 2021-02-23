@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/coursesListsApp/static/css/main.c305b376.chunk.css",
+    "main.js": "/coursesListsApp/static/js/main.7c4007ea.chunk.js",
+    "main.js.map": "/coursesListsApp/static/js/main.7c4007ea.chunk.js.map",
+    "runtime-main.js": "/coursesListsApp/static/js/runtime-main.4bbb7783.js",
+    "runtime-main.js.map": "/coursesListsApp/static/js/runtime-main.4bbb7783.js.map",
+    "static/js/2.d9baa53f.chunk.js": "/coursesListsApp/static/js/2.d9baa53f.chunk.js",
+    "static/js/2.d9baa53f.chunk.js.map": "/coursesListsApp/static/js/2.d9baa53f.chunk.js.map",
+    "static/js/3.87de9f60.chunk.js": "/coursesListsApp/static/js/3.87de9f60.chunk.js",
+    "static/js/3.87de9f60.chunk.js.map": "/coursesListsApp/static/js/3.87de9f60.chunk.js.map",
+    "index.html": "/coursesListsApp/index.html",
+    "static/css/main.c305b376.chunk.css.map": "/coursesListsApp/static/css/main.c305b376.chunk.css.map",
+    "static/js/2.d9baa53f.chunk.js.LICENSE.txt": "/coursesListsApp/static/js/2.d9baa53f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bbb7783.js",
+    "static/js/2.d9baa53f.chunk.js",
+    "static/css/main.c305b376.chunk.css",
+    "static/js/main.7c4007ea.chunk.js"
+  ]
+}
